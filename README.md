@@ -1,12 +1,12 @@
-# Bush-Button
+# Push-Button
 
-Turn on the Bush-Button
+Turn on the Push-Button
 
 1- Login to tinkercad
 
-2-Work for Bush-Button circuit
+2-Work for Push-Button circuit
 
-3-Write this code to operate the Bush-Button circuit
+3-Write this code to operate the Push-Button circuit
 
 ```
 //Define a pin for the LED
